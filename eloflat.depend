@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1424304403 source:d:\stuff\projects\eloflat\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<vector>
+	<iterator>
+	<algorithm>
+	<string>
+
